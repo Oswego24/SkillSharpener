@@ -43,3 +43,138 @@ user global configuration and to define the default location to store repositori
 not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
 EGit might behave differently since they see different configuration options.
 This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:25.650
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:25.658
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6b2c324a[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=636)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:25.680
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:26.231
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.470
+!MESSAGE Boot LS startup time from start to initialized: 3770ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.495
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.IVyUltmOisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.502
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.508
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.513
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.520
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.525
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.532
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.536
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.IVyUltmO => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.541
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.549
+!MESSAGE buffering callback sts4.classpath.IVyUltmO firstExercises false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.553
+!MESSAGE executing callback sts4.classpath.IVyUltmO 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:29.571
+!MESSAGE executing callback sts4.classpath.IVyUltmO SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:31.621
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.IVyUltmO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:31.629
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.IVyUltmO
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:31.635
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:31.641
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.IVyUltmO => OK
+
+!ENTRY org.eclipse.ui 2 2 2020-07-27 05:38:34.772
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:59.876
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:59.884
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6b2c324a[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=636)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:38:59.891
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:00.079
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:00.085
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6b2c324a[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=636)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:00.092
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.424
+!MESSAGE Boot LS startup time from start to initialized: 1325ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.448
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hxRhqMxDisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.454
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.461
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.467
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.473
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.477
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.482
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.486
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.hxRhqMxD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.491
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.497
+!MESSAGE buffering callback sts4.classpath.hxRhqMxD firstExercises false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.502
+!MESSAGE executing callback sts4.classpath.hxRhqMxD 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:39:01.517
+!MESSAGE executing callback sts4.classpath.hxRhqMxD SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:48:28.625
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hxRhqMxD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:48:28.724
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.hxRhqMxD
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:48:28.729
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:48:28.735
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hxRhqMxD => OK
