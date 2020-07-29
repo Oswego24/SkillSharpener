@@ -178,3 +178,63 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-27 05:48:28.735
 !MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.hxRhqMxD => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:47.149
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:47.160
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@6b2c324a[org.springframework.tooling.boot.ls:1.19.0.202006181152(id=636)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:47.165
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.377
+!MESSAGE Boot LS startup time from start to initialized: 3206ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.400
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JuRSmYOBisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.405
+!MESSAGE Creating project sorter...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.413
+!MESSAGE Creating project sorter... DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.419
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.425
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.429
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.433
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.437
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.JuRSmYOB => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.441
+!MESSAGE classpath=2 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.446
+!MESSAGE buffering callback sts4.classpath.JuRSmYOB firstExercises false 2
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.450
+!MESSAGE executing callback sts4.classpath.JuRSmYOB 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:27:50.464
+!MESSAGE executing callback sts4.classpath.JuRSmYOB SUCCESS [done]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:32:38.042
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JuRSmYOB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:32:38.048
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.JuRSmYOB
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:32:38.053
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2020-07-28 17:32:38.058
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.JuRSmYOB => OK
